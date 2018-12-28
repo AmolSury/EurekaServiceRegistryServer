@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.main</groupId>
-	<artifactId>Eureka Service Registry Server </artifactId>
+	<artifactId>Eureka Service Registry Server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
